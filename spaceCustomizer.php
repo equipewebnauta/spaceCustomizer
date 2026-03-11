@@ -1,4 +1,4 @@
-<?php
+
 
 add_action('wp_footer', function () {
     ?>
@@ -6,4 +6,5 @@ add_action('wp_footer', function () {
         console.log('cheguei aqui');
     </script>
     <?php
+
 });
