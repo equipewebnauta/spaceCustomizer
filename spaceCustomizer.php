@@ -1,4 +1,4 @@
-
+<?php
 /*
 Plugin Name: WPLMS Customizer Plugin
 Plugin URI: http://www.Vibethemes.com
@@ -11076,6 +11076,7 @@ function webnauta_admin_custom_css() {
         '
     );
 }
+
 
 
 
