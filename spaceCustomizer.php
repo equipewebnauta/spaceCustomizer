@@ -11082,3 +11082,15 @@ function webnauta_admin_custom_css() {
 
 
 
+function space_customizer_console_test(){
+
+    echo "<script>
+        console.log('SPACE Customizer Loader ativo 🚀');
+    </script>";
+
+}
+
+add_action('wp_footer','space_customizer_console_test');
+
+
+
