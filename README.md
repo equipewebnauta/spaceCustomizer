@@ -112,6 +112,6 @@ GitHub → Download → Cache → Execução no WordPress
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Equipe WebNauta**
+Desenvolvido por **Miguel Ferreira**
 
 Sistema utilizado em projetos WPLMS e personalizações avançadas de WordPress.
